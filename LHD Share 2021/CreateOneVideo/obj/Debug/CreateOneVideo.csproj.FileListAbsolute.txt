@@ -1,0 +1,17 @@
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\CreateOneVideo.exe.config
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\CreateOneVideo.exe
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\CreateOneVideo.pdb
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\DirectShowLib-2005.dll
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\Splicer.dll
+C:\Users\aleix\source\repos\CreateOneVideo\obj\Debug\CreateOneVideo.csprojAssemblyReference.cache
+C:\Users\aleix\source\repos\CreateOneVideo\obj\Debug\CreateOneVideo.Form1.resources
+C:\Users\aleix\source\repos\CreateOneVideo\obj\Debug\CreateOneVideo.Properties.Resources.resources
+C:\Users\aleix\source\repos\CreateOneVideo\obj\Debug\CreateOneVideo.csproj.GenerateResource.cache
+C:\Users\aleix\source\repos\CreateOneVideo\obj\Debug\CreateOneVideo.csproj.CoreCompileInputs.cache
+C:\Users\aleix\source\repos\CreateOneVideo\obj\Debug\CreateOneVideo.csproj.CopyComplete
+C:\Users\aleix\source\repos\CreateOneVideo\obj\Debug\CreateOneVideo.exe
+C:\Users\aleix\source\repos\CreateOneVideo\obj\Debug\CreateOneVideo.pdb
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\aleix\source\repos\CreateOneVideo\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
