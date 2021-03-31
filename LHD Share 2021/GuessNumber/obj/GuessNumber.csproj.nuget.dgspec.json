@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleix\\Documents\\GitHub\\GuessNumber\\GuessNumber.csproj": {}
+    "C:\\Users\\aleix\\Documents\\GitHub\\MLH\\LHD Share 2021\\GuessNumber\\GuessNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleix\\Documents\\GitHub\\GuessNumber\\GuessNumber.csproj": {
+    "C:\\Users\\aleix\\Documents\\GitHub\\MLH\\LHD Share 2021\\GuessNumber\\GuessNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleix\\Documents\\GitHub\\GuessNumber\\GuessNumber.csproj",
+        "projectUniqueName": "C:\\Users\\aleix\\Documents\\GitHub\\MLH\\LHD Share 2021\\GuessNumber\\GuessNumber.csproj",
         "projectName": "GuessNumber",
-        "projectPath": "C:\\Users\\aleix\\Documents\\GitHub\\GuessNumber\\GuessNumber.csproj",
+        "projectPath": "C:\\Users\\aleix\\Documents\\GitHub\\MLH\\LHD Share 2021\\GuessNumber\\GuessNumber.csproj",
         "packagesPath": "C:\\Users\\aleix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleix\\Documents\\GitHub\\GuessNumber\\obj\\",
+        "outputPath": "C:\\Users\\aleix\\Documents\\GitHub\\MLH\\LHD Share 2021\\GuessNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleix\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,6 +13,7 @@ namespace GuessNumber
 
             Console.WriteLine("Hello!");
             Console.WriteLine("Are you ready for guessing the number?");
+            Console.WriteLine("Try to find a number between 0 and 100!");
             
             int intents = 1;
 
