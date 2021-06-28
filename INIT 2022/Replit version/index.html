@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Replit - code, create, and learn together</h1>
+    <div id="app" class="container">
+        <div class="row">
+            <div class="col-6">
+
+                <select v-model="programingLanguage" @change="setFirstText">
+                    <option value="" selected>Select a programing language</option>
+                    <option value="C++">C++</option>
+                    <option value="C#">C#</option>
+                    <option value="Python">Python</option>
+                </select>
+                
+            </div>
+            <div class="col-6">
+                <button class="run">Run</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6 code">
+                <textarea style="width: 100%; height: 100%;"></textarea>
+            </div>
+
+            <div class="col-6 result">
+                <p v-if="programingLanguage != ''">You're coding with {{programingLanguage}}!</p>
+                <p id="firstText"></p>
+                <p id="secondText"></p>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/vue@next"></script>
+    <script>
+        app = Vue.createApp({
+            data() {
+                return {
+                    programingLanguage: ''
+                }
+            },
+            methods: {
+                setFirstText() {
+                   
+                }
+            }
+        })
+
+
+
+        mountedApp = app.mount('#app')
+    </script>
+</body>
+</html>
